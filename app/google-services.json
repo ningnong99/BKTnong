@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "433995074067",
+    "firebase_url": "https://bktnong-91b8c.firebaseio.com",
+    "project_id": "bktnong-91b8c",
+    "storage_bucket": "bktnong-91b8c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:433995074067:android:44ecf2239b6cf333",
+        "android_client_info": {
+          "package_name": "bsru.junpukdee.sutin.bktnong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "433995074067-5mn443e2bq2lvsf178qh7p8oirth32mp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7im28ADGc4dFjhPpaWQA6xaVUbsGtdVM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
